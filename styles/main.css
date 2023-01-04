@@ -224,6 +224,7 @@ hr {
 }
 img {
   border-radius: 10px;
+
 }
 .thumbnail {
   width: 100%;
@@ -266,8 +267,4 @@ span {
   color: rgb(56, 56, 56);
   font-size: 15px;
 }
-/* @media (max-width: 768px) {
-  .side-bar {
-    display: none;
-  }
-} */
+
